@@ -1,4 +1,4 @@
-# Task2: Student Grade Calculator
+# Student Grade Calculator
   * The Student Grade Calculator is a simple yet effective Java Swing application that allows users to input marks for multiple subjects, calculates the total and 
     average, and assigns a grade based on the percentage. It’s designed to help students quickly evaluate their academic performance in a user-friendly interface.
 
