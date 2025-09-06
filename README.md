@@ -38,10 +38,3 @@
     Handles invalid inputs gracefully.
     Easy to use and understand, making it perfect for students and learners.
 
-  * Overview of the frame-
-
-
-    ![grade](https://github.com/user-attachments/assets/3b76c2e8-faf4-44ba-948c-b2bde174af04)
-
-    
-
